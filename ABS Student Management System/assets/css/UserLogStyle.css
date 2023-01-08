@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bg-image
+{  
+    /* Full height */
+    height: 40%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-login
+{
+    height: 65%;
+    width: 90%;
+    margin: auto;
+    box-shadow: 0 0 8px 2px rgb(85, 79, 79);
+    border-radius: 10px;
+}
+/* Link in login page for signing in */
+.signup-link  
+{
+    padding-top: 15px;
+}
+/* Link in signin page for logging in */
+.login-link
+{
+    padding-top: 10px;
+}
